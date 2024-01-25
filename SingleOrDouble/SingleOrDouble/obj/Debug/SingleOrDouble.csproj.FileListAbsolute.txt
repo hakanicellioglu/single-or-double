@@ -1,0 +1,7 @@
+E:\Visual Studio Project\SingleOrDouble\SingleOrDouble\bin\Debug\SingleOrDouble.exe.config
+E:\Visual Studio Project\SingleOrDouble\SingleOrDouble\bin\Debug\SingleOrDouble.exe
+E:\Visual Studio Project\SingleOrDouble\SingleOrDouble\bin\Debug\SingleOrDouble.pdb
+E:\Visual Studio Project\SingleOrDouble\SingleOrDouble\obj\Debug\SingleOrDouble.csproj.AssemblyReference.cache
+E:\Visual Studio Project\SingleOrDouble\SingleOrDouble\obj\Debug\SingleOrDouble.csproj.CoreCompileInputs.cache
+E:\Visual Studio Project\SingleOrDouble\SingleOrDouble\obj\Debug\SingleOrDouble.exe
+E:\Visual Studio Project\SingleOrDouble\SingleOrDouble\obj\Debug\SingleOrDouble.pdb
